@@ -1,0 +1,14 @@
+D:\starPatton\starPatton\bin\Debug\net10.0\starPatton.exe
+D:\starPatton\starPatton\bin\Debug\net10.0\starPatton.deps.json
+D:\starPatton\starPatton\bin\Debug\net10.0\starPatton.runtimeconfig.json
+D:\starPatton\starPatton\bin\Debug\net10.0\starPatton.dll
+D:\starPatton\starPatton\bin\Debug\net10.0\starPatton.pdb
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.GeneratedMSBuildEditorConfig.editorconfig
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.AssemblyInfoInputs.cache
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.AssemblyInfo.cs
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.csproj.CoreCompileInputs.cache
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.dll
+D:\starPatton\starPatton\obj\Debug\net10.0\refint\starPatton.dll
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.pdb
+D:\starPatton\starPatton\obj\Debug\net10.0\starPatton.genruntimeconfig.cache
+D:\starPatton\starPatton\obj\Debug\net10.0\ref\starPatton.dll
